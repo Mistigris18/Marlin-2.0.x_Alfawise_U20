@@ -1,0 +1,8 @@
+Il sagit d'une adaptation du Marlin 2.0 pour notre Alfawise U20 avec carte SKR v1.3
+Donc 
+carte mere SKR V1.3
+TMC 2208 UART
+BLtouch
+Fang Deamoncrack  (https://www.lesimprimantes3d.fr/forum/topic/19591-fang-modulable-mk8e3daio-bl-touchtouch-mi/?tab=comments#comment-246735)
+Extrudeur BMG avec linear advance activé
+ecran 12864 activé
